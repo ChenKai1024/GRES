@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5a0e9272-46fb-483c-8060-dfb7aa2a2957" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\LocalWarehouse" />
+        <option name="mavenHome" value="E:/maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1UacXsp43lIAFlywoUSZUhROU7l" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\GRES\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.GoodsRecommendationManagementSystemJobController">
+    <configuration name="DuplicateDataForResult" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.bigdata.project.gres.step7.DuplicateDataForResult" />
+      <module name="GRES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.bigdata.project.gres.step7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoodsRecommendationManagementSystemJobController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.bigdata.project.gres.GoodsRecommendationManagementSystemJobController" />
+      <module name="GRES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.bigdata.project.gres.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeSumForMultiplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.bigdata.project.gres.step6.MakeSumForMultiplication" />
+      <module name="GRES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.bigdata.project.gres.step6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SaveRecommendResultToDB" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.bigdata.project.gres.step8.SaveRecommendResultToDB" />
+      <module name="GRES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.bigdata.project.gres.step8.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserBuyGoodsList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.briup.bigdata.project.gres.step1.UserBuyGoodsList" />
+      <module name="GRES" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.briup.bigdata.project.gres.step1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GoodsRecommendationManagementSystemJobController" />
+        <item itemvalue="Application.UserBuyGoodsList" />
+        <item itemvalue="Application.SaveRecommendResultToDB" />
+        <item itemvalue="Application.DuplicateDataForResult" />
+        <item itemvalue="Application.MakeSumForMultiplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a0e9272-46fb-483c-8060-dfb7aa2a2957" name="Default Changelist" comment="" />
+      <created>1575598189655</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575598189655</updated>
+      <workItem from="1575598193413" duration="15410000" />
+      <workItem from="1575791924414" duration="161000" />
+      <workItem from="1575792363731" duration="89000" />
+      <workItem from="1575792489456" duration="340000" />
+      <workItem from="1575792870160" duration="645000" />
+      <workItem from="1575796822059" duration="1451000" />
+      <workItem from="1575853648080" duration="113000" />
+      <workItem from="1575854196470" duration="156000" />
+      <workItem from="1575854985791" duration="12010000" />
+      <workItem from="1575878151005" duration="5433000" />
+      <workItem from="1575891462780" duration="794000" />
+      <workItem from="1575939902828" duration="2366000" />
+      <workItem from="1576026406480" duration="1951000" />
+      <workItem from="1576049416046" duration="1731000" />
+      <workItem from="1576051965501" duration="4278000" />
+      <workItem from="1576140130656" duration="45000" />
+      <workItem from="1576746825359" duration="198000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
